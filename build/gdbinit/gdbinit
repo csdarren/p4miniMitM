@@ -1,0 +1,2 @@
+source /home/dhall/dev/p4miniMitM/build/gdbinit/symbols
+source /home/dhall/dev/p4miniMitM/build/gdbinit/connect
